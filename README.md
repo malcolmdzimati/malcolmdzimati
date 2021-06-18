@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malcolmdzimati
 - 👀 I’m interested in Machine language, Data Science, Software and Data engineering
-- 🌱 I’m currently persuing a degree in Computer Science with a minor in stats
+- 🌱 I’m currently persuing a degree in Computer Science with a minor in Data Science, Databases and systems, Machine language and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me malcolmdzimati@gmail.com
 
