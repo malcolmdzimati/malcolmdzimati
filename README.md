@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @malcolmdzimati
+Hi, I’m Malcolm Dzimati👋🏿
 - 👀 I’m interested in Machine language, Data Science, Software and Data engineering
 - 🌱 I’m currently persuing a degree in Computer Science with a minor in Data Science, Databases and systems, Machine language and AI
 - 💞️ I’m looking to collaborate on ...
