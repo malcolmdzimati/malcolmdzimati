@@ -1,8 +1,7 @@
 Hi, I’m Malcolm Dzimati👋🏿
-- 👀 I’m interested in Machine language, Data Science, Software and Data engineering
-- 🌱 I’m currently persuing a degree in Computer Science with a minor in Data Science, Databases and systems, Machine language and AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me malcolmdzimati@gmail.com
+-I am currently a Second Year Computer Science student, focusing on: Artificial Intelligence, Data Science and Statistics.
+-I plan on using this github page to showcase and store fun projects I plan to fill my schedual doing. Mainly focusing on the application of Artificial Intelligence and Machine Learning or data wrangling and data engineering projects and other stuff I find interesting.
+-I might also have some of my school projects and assignemnts on here aswell.
 
 <!---
 malcolmdzimati/malcolmdzimati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
