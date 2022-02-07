@@ -4,7 +4,7 @@
 - I might also have some of my school projects and assignments on here aswell.📝
 
 ### What I am Currently Working On👨‍💻:
-- Writing my first Nueral Network in python to recognise cat pictures🐱
+- Writing my first Nueral Network in python to recognise humans or horses in picture
 <!---
 malcolmdzimati/malcolmdzimati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
