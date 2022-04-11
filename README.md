@@ -4,8 +4,9 @@
 - I might also have some of my school projects and assignments on here aswell.📝
 
 ### What I am Currently Working On👨‍💻:
-Personal
-- Writing my first Nueral Network in python to recognise humans or horses in pictures'
+Personal:
+- Writing my first Nueral Network in python to recognise humans or horses in pictures.
+- Learning AWS Lamda, AWS comprehend, AWS DynamoDB
 
 Course Work:
 - Constructing a compile
