@@ -5,12 +5,8 @@
 
 ### What I am Currently Working On👨‍💻:
 Personal:
-- I am upskilling in cryptograhy and payment systems in SA
-- Completeing a course in cryptogarphy done in python
 
 Course Work:
-- Building a CNN to recognize pictures in a draught
-- A data Science assignment where we are building a supervised learning model
 <!---
 malcolmdzimati/malcolmdzimati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
