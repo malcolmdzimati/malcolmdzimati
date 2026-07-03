@@ -5,7 +5,7 @@
 - 🎓 BSc & BSc Hons in Computer Science, University of Pretoria.
 - 🧠 Current focus: using LLM tooling (RAG, agentic workflows, LangGraph, MCP) to build systems that hold up in production, not demos — and figuring out where a human still needs to be in the loop.
 - 🏘️ Founder of **Rota Dzimati Group**, a property investment venture applying the same automation-over-spreadsheets mindset to real estate.
-- 📄 More on all of this at my [personal site](https://malcolmdzimati.github.io/malcolm_dzimati_personal_site/) and [digital CV](https://malcolmdzimati.github.io/malcolm_dzimati_personal_site/cv).
+- 📄 More on all of this at my [personal site](https://malcolmdzimati.com/) and [digital CV](https://malcolmdzimati.com/cv).
 
 ### What I'm currently working on 👨‍💻
 
@@ -29,7 +29,7 @@
 
 ### Let's connect
 
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://malcolmdzimati.github.io/malcolm_dzimati_personal_site/)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://malcolmdzimati.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batsirai-dzimati-5a541518b/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malcolmdzimati@gmail.com)
 
